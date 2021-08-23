@@ -1,44 +1,35 @@
-## Hi I'm Ruben <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1> Hi I'm Ruben <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm Ruben an apprentice computer scientist application development. In my free time, I code on personal projects and also at work.
+My name is Ruben and i am an apprentice computer scientist application development. In my free time, I code on personal projects and also at work. :coffee:
+<br />
+<br />
 
-My social networks 
+<u><h2>My social networks </h2></u>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-55acee?style=for-the-badge&labelColor=black&logo=twitter&logoColor=55acee)](#) [![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/rubencatalaoamaro/) 
-
-<!-- TODO: Add last video link -->
-
-- 🔭 I’m currently working at Aequivalent 
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: rubencontactpro@bluewin.ch.
-- ⚡ Fun fact: I play games and go to the GYM very often.
-
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Twitter](https://img.shields.io/badge/-Twitter-55acee?style=for-the-badge&labelColor=black&logo=twitter&logoColor=55acee)](#) [![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/rubencatalaoamaro/) [![Linkedin](https://img.shields.io/badge/-gITHUB-333333?style=for-the-badge&labelColor=black&logo=github&logoColor=FFF)](https://github.com/RubenCatalao) 
 
 
 <br />
 <br />
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
-
-  More stuff about me
+<u><h2>My favorite technologies </h2></u>
 
 
-<br >
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org/) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://www.javascript.com/)[![GraphQL Badge](https://img.shields.io/badge/-Vue.JS-41B883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=41B883)](https://vuejs.org/) [![Nodejs Badge](https://img.shields.io/badge/-HTML5-D84315?style=for-the-badge&labelColor=black&logo=html5&logoColor=D84315)](#) [![GraphQL Badge](https://img.shields.io/badge/-CSS3-1565C0?style=for-the-badge&labelColor=black&logo=css3&logoColor=1565C0)](#) 
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+
+<br />
+<br />
 
 
 
-#### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+<u><h2>GitHub Stats</h2></u>
+
+![RubenCatalao's github stats](https://github-readme-stats.vercel.app/api?username=RubenCatalao&count_private=true&theme=dark&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenCatalao&layout=compact&count_private=true&theme=dark)
+
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RubenCatalao.RubenCatalao)
