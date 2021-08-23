@@ -6,7 +6,7 @@ My name is Ruben and i am an apprentice computer scientist application developme
 
 <u><h2>My social networks </h2></u>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-55acee?style=for-the-badge&labelColor=black&logo=twitter&logoColor=55acee)](#) [![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/rubencatalaoamaro/) [![Linkedin](https://img.shields.io/badge/-gITHUB-333333?style=for-the-badge&labelColor=black&logo=github&logoColor=FFF)](https://github.com/RubenCatalao) 
+[![Twitter](https://img.shields.io/badge/-Twitter-55acee?style=for-the-badge&labelColor=black&logo=twitter&logoColor=55acee)](#) [![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/rubencatalaoamaro/) [![Linkedin](https://img.shields.io/badge/-gITHUB-333333?style=for-the-badge&labelColor=black&logo=github&logoColor=FFF)](https://github.com/RubenCatalao) [![Linkedin](https://img.shields.io/badge/-My_Portfolio-dcdcdc?style=for-the-badge&labelColor=black&logo=Google&logoColor=dcdcdc)](https://portfolioruben.ch) 
 
 
 <br />
